@@ -7,4 +7,5 @@ and also a bunch more stuff i added teehee
 ## installation
 
 1. install tampermonkey
-2. [click here](https://github.com/cgytrus/Wplace-Overlay-Pro/releases/download/development/configs-epic-overlay-pro-fork.user.js)
+2. [click here](https://github.com/MaixGit/configs-epic-overlay-pro-fork-fix/releases/download/development/configs-epic-overlay-pro-fork.user.js)
+
